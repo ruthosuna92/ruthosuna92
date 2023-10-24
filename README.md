@@ -93,7 +93,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ruthosuna92/ruthosuna92/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ruthosuna92/ruthosuna92/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
